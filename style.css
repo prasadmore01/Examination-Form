@@ -47,3 +47,35 @@
     cursor: pointer;
     background-color: rgb(243, 243, 243);
 }
+
+.user-container{
+    width: 700px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(182, 255, 255);
+    margin-top: 30px;
+
+}
+
+.top-heading{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.top-heading h1{
+    font-size: 17px;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.users{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 17px;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+}
