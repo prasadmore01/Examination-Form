@@ -38,7 +38,7 @@ let examination = () =>{
         return data.email == email.value
     })
 
-    let centers = ['pune','mumbai','delhi','nashik','himachal','mp','up','lucknow','bihar','jammu']
+    let centers = ['pune','mumbai','delhi','nashik','Manali',' Indore','Ujjain','lucknow','bihar','Banglore']
     
     let random = Math.random()*10;
     let num = Math.trunc(random);
